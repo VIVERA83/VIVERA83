@@ -1,7 +1,7 @@
-### <p style="text-align: center; color: Green"> Hi </p>
+# <p style="text-align: center"> Hi </p>
 
-Always ready to communicate,
-to contact me:
+## Always ready to communicate,
+## to contact me:
 
  [![email.svg](src%2Femail.svg)](mailto:vivera83@yandex.ru)
  [![telegram.svg](src%2Ftelegram.svg)](https://t.me/Vivera83)
