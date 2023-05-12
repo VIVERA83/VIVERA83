@@ -1,10 +1,10 @@
-### Hello 
+### Hello
 
 Always ready to communicate,
 to contact me:
-  - #### 📫 vivera83@yandex.ru 
-  - #### https://t-do.ru/vivera83
 
+ [![email.svg](src%2Femail.svg)](mailto:vivera83@yandex.ru)
+ [![telegram.svg](src%2Ftelegram.svg)](https://t.me/Vivera83)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivera83&layout=donut&theme=dark&size_weight=0.5&count_weight=0.5&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivera83&show_icons=true&theme=dark)
@@ -17,3 +17,6 @@ to contact me:
 [![postgresql.svg](src%2Fpostgresql.svg)](https://www.postgresql.org/)
 [![redis.svg](src%2Fredis.svg)](https://redis.io/)
 [![rabbitmq.svg](src%2Frabbitmq.svg)](https://www.rabbitmq.com/)
+
+[//]: # (https://simpleicons.org/?q=git)
+[//]: # (https://www.svgrepo.com/vectors/email/4)
