@@ -18,6 +18,8 @@
 [![postgresql.svg](src%2Fpostgresql.svg)](https://www.postgresql.org/)
 [![redis.svg](src%2Fredis.svg)](https://redis.io/)
 [![rabbitmq.svg](src%2Frabbitmq.svg)](https://www.rabbitmq.com/)
+[![javascript.svg](src%2Fjavascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![github.svg](src%2Fgithub.svg)](https://github.com/)
 
 [//]: # (https://simpleicons.org/?q=git)
 [//]: # (https://www.svgrepo.com/vectors/email/4)
