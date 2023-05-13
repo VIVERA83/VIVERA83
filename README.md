@@ -20,7 +20,6 @@
 [![rabbitmq.svg](src%2Frabbitmq.svg)](https://www.rabbitmq.com/)
 
 [//]: # (https://simpleicons.org/?q=git)
-
 [//]: # (https://www.svgrepo.com/vectors/email/4)
 
 ### In my work:
