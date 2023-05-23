@@ -29,4 +29,6 @@
 - [Полезные утилитки](https://github.com/VIVERA83/utitlites)
 - [Качалка](https://github.com/VIVERA83/crawler)
 - [Бот для VK сапер](https://github.com/VIVERA83/game_sapper)
+- [Тестовое задание_ часть 1](https://github.com/VIVERA83/victorina_api)
+- [Тестовое задание_ часть 2](https://github.com/VIVERA83/wav_to_mp3_api)
 
