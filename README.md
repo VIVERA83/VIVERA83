@@ -7,7 +7,7 @@
 [![email.svg](src%2Femail.svg)](mailto:vivera83@yandex.ru)
 [![telegram.svg](src%2Ftelegram.svg)](https://t.me/Vivera83)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivera83&layout=donut&theme=dark&size_weight=0.5&count_weight=0.5&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivera83&layout=donut&theme=dark&size_weight=0.5&count_weight=0.5&hide=html)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivera83&show_icons=true&theme=dark)
 
 [![python](src%2Fpython.svg)](https://www.python.org/)
