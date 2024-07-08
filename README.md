@@ -8,7 +8,7 @@
 [![telegram.svg](src%2Ftelegram.svg)](https://t.me/Vivera83)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivera83&layout=donut&theme=dark&size_weight=0.5&count_weight=0.5&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivera83&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivera83&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![python](src%2Fpython.svg)](https://www.python.org/)
 [![aiohttp.svg](src%2Faiohttp.svg)](https://docs.aiohttp.org/en/stable/)
