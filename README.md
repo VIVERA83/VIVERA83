@@ -1,8 +1,8 @@
-# <p style="text-align: center"> Hi </p>
+# <p style="text-align: center"> Привет </p>
 
-## Always ready to communicate,
+## Открыт для общения,
 
-## to contact me:
+## Если что пишите:
 
 [![email.svg](src%2Femail.svg)](mailto:vivera83@yandex.ru)
 [![telegram.svg](src%2Ftelegram.svg)](https://t.me/Vivera83)
@@ -24,7 +24,7 @@
 [//]: # (https://simpleicons.org/?q=git)
 [//]: # (https://www.svgrepo.com/vectors/email/4)
 
-### In my work:
+### Когда то что то делал... сечас делаю что то другое:
 
 - [Полезные утилитки](https://github.com/VIVERA83/utitlites)
 - [Качалка](https://github.com/VIVERA83/crawler)
