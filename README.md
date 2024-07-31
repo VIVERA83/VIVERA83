@@ -24,7 +24,7 @@
 [//]: # (https://simpleicons.org/?q=git)
 [//]: # (https://www.svgrepo.com/vectors/email/4)
 
-### Когда то что то делал... сечас делаю что то другое:
+### Когда то, что то делал... сечас делаю что то другое:
 
 - [Полезные утилитки](https://github.com/VIVERA83/utitlites)
 - [Яндекс музыка "parser"](https://github.com/VIVERA83/ya_music_parser)
