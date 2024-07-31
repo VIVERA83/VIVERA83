@@ -27,10 +27,13 @@
 ### Когда то что то делал... сечас делаю что то другое:
 
 - [Полезные утилитки](https://github.com/VIVERA83/utitlites)
-- [Качалка](https://github.com/VIVERA83/crawler)
-- [Бот для VK сапер](https://github.com/VIVERA83/game_sapper)
+- [Яндекс музыка "parser"](https://github.com/VIVERA83/ya_music_parser)
+- [Meme Service](https://github.com/VIVERA83/meme_service?tab=readme-ov-file)
 - [Тестовое задание_ часть 1](https://github.com/VIVERA83/victorina_api)
 - [Тестовое задание_ часть 2](https://github.com/VIVERA83/wav_to_mp3_api)
 - [Пример JWT авторизации](https://github.com/VIVERA83/my_salary)
 - [Пример применения WS](https://github.com/VIVERA83/derbit)
 
+### Это то над чем я работаю и оно мне очень мне помогает, действующий проект который где-то болтает в сети:
+
+- [Ассистент](https://github.com/VIVERA83/assistant)
